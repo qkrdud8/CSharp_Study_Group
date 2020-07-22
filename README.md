@@ -1,1 +1,3 @@
-# CSharp_Study_Group1
+# CSharp 공부하자
+내용을 추가했다
+추가당했다
